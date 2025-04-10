@@ -1144,7 +1144,7 @@
           <context context-type="sourcefile">src/app/components/admin/settings/settings.component.html</context>
           <context context-type="linenumber">194</context>
         </context-group>
-        <target state="needs-translation">Default zoom</target>
+        <target state="translated">默认缩放设置</target>
       </trans-unit>
       <trans-unit id="2222784219255971268" datatype="html">
         <source>Fit width</source>
@@ -1168,7 +1168,7 @@
           <context context-type="sourcefile">src/app/components/admin/settings/settings.component.html</context>
           <context context-type="linenumber">201</context>
         </context-group>
-        <target state="needs-translation">Only applies to the Paperless-ngx PDF viewer.</target>
+        <target state="translated">仅适用于Paperless-ngx PDF 查看器。</target>
       </trans-unit>
       <trans-unit id="2959590948110714366" datatype="html">
         <source>Automatically remove inbox tag(s) on save</source>
@@ -3820,7 +3820,7 @@
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.html</context>
           <context context-type="linenumber">101</context>
         </context-group>
-        <target state="needs-translation">Relative dates</target>
+        <target state="translated">相对日期</target>
       </trans-unit>
       <trans-unit id="6052766076365105714" datatype="html">
         <source>now</source>
@@ -3888,7 +3888,7 @@
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.ts</context>
           <context context-type="linenumber">73</context>
         </context-group>
-        <target state="needs-translation">Within 1 week</target>
+        <target state="translated">1 周内</target>
       </trans-unit>
       <trans-unit id="123064370501514576" datatype="html">
         <source>Within 1 month</source>
@@ -3896,7 +3896,7 @@
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.ts</context>
           <context context-type="linenumber">78</context>
         </context-group>
-        <target state="needs-translation">Within 1 month</target>
+        <target state="translated">1个月内</target>
       </trans-unit>
       <trans-unit id="1027161426440526546" datatype="html">
         <source>Within 3 months</source>
@@ -3904,7 +3904,7 @@
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.ts</context>
           <context context-type="linenumber">83</context>
         </context-group>
-        <target state="needs-translation">Within 3 months</target>
+        <target state="translated">3 个月内</target>
       </trans-unit>
       <trans-unit id="226779700214642230" datatype="html">
         <source>Within 1 year</source>
@@ -3912,7 +3912,7 @@
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.ts</context>
           <context context-type="linenumber">88</context>
         </context-group>
-        <target state="needs-translation">Within 1 year</target>
+        <target state="translated">1 年内</target>
       </trans-unit>
       <trans-unit id="8462417627724236320" datatype="html">
         <source>This year</source>
@@ -3920,7 +3920,7 @@
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.ts</context>
           <context context-type="linenumber">93</context>
         </context-group>
-        <target state="needs-translation">This year</target>
+        <target state="translated">今年</target>
       </trans-unit>
       <trans-unit id="842657237693374355" datatype="html">
         <source>This month</source>
@@ -3928,7 +3928,7 @@
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.ts</context>
           <context context-type="linenumber">98</context>
         </context-group>
-        <target state="needs-translation">This month</target>
+        <target state="translated">本月</target>
       </trans-unit>
       <trans-unit id="4498682414491138092" datatype="html">
         <source>Yesterday</source>
@@ -7014,7 +7014,7 @@
           <context context-type="sourcefile">src/app/components/dashboard/widgets/upload-file-widget/upload-file-widget.component.html</context>
           <context context-type="linenumber">6</context>
         </context-group>
-        <target state="needs-translation">Upload documents</target>
+        <target state="translated">上传文件</target>
       </trans-unit>
       <trans-unit id="6388681050646106203" datatype="html">
         <source>or drop files anywhere</source>
@@ -7022,7 +7022,7 @@
           <context context-type="sourcefile">src/app/components/dashboard/widgets/upload-file-widget/upload-file-widget.component.html</context>
           <context context-type="linenumber">7</context>
         </context-group>
-        <target state="needs-translation">or drop files anywhere</target>
+        <target state="translated">或将文件拖放在任何地方</target>
       </trans-unit>
       <trans-unit id="1749180330008942007" datatype="html">
         <source>Dismiss completed</source>
@@ -7624,7 +7624,7 @@
           <context context-type="sourcefile">src/app/components/document-detail/document-detail.component.ts</context>
           <context context-type="linenumber">842</context>
         </context-group>
-        <target state="needs-translation">Error saving document "<x id="PH" equiv-text="this.document.title"/>"</target>
+        <target state="translated">保存文档 <x id="PH" equiv-text="this.document.title"/> 时发生错误</target>
       </trans-unit>
       <trans-unit id="448882439049417053" datatype="html">
         <source>Error saving document</source>
@@ -8820,7 +8820,7 @@
           <context context-type="sourcefile">src/app/components/document-list/filter-editor/filter-editor.component.ts</context>
           <context context-type="linenumber">187</context>
         </context-group>
-        <target state="needs-translation">File type</target>
+        <target state="translated">文件类型</target>
       </trans-unit>
       <trans-unit id="2649431021108393503" datatype="html">
         <source>More like</source>
@@ -8924,7 +8924,7 @@
           <context context-type="sourcefile">src/app/components/document-list/filter-editor/filter-editor.component.ts</context>
           <context context-type="linenumber">284,286</context>
         </context-group>
-        <target state="needs-translation">Tag: <x id="PH" equiv-text="this.tagSelectionModel.items.find((t) =&gt; t.id == +rule.value)?.name"/></target>
+        <target state="translated">标签：<x id="PH" equiv-text="this.tagSelectionModel.items.find((t) =&gt; t.id == +rule.value)?.name"/></target>
       </trans-unit>
       <trans-unit id="6494566478302448576" datatype="html">
         <source>Without any tag</source>
@@ -9668,7 +9668,7 @@
           <context context-type="sourcefile">src/app/components/manage/management-list/management-list.component.ts</context>
           <context context-type="linenumber">197</context>
         </context-group>
-        <target state="needs-translation">Successfully updated <x id="PH" equiv-text="this.typeName"/> "<x id="PH_1" equiv-text="object.name"/>".</target>
+        <target state="translated">成功更新 <x id="PH" equiv-text="this.typeName"/> <x id="PH_1" equiv-text="object.name"/>。</target>
       </trans-unit>
       <trans-unit id="6442673774206210733" datatype="html">
         <source>Error occurred while saving <x id="PH" equiv-text="this.typeName"/>.</source>
